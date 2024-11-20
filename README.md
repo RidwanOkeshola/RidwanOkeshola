@@ -41,8 +41,8 @@ Welcome to my GitHub! I’m a **Data Analyst** with expertise in **SQL**, **Tabl
 ---
 
 ## 📚 Blogs & Articles
-📝 [How I Built a Dynamic RFM Dashboard in Tableau](https://medium.com/@yourhandle)  
-📝 [Top 5 SQL Tricks for Faster Queries](https://medium.com/@yourhandle)
+📝 [Frauds and Forgeries in Nigeria- Dashboard using PowerBI](https://medium.com/@oked2019)  
+📝 [No Better Time to Start than Now](https://medium.com/@oked2019)
 
 ---
 
