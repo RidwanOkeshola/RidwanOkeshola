@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m a **Data Analyst** with expertise in **SQL**, **Tabl
 ### 💻 Languages & Tools
 - **Languages**: ![SQL](https://img.shields.io/badge/SQL-%2312100E.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 - **Visualization**: ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-- **Other Tools**: ![BigQuery](https://img.shields.io/badge/Google%20BigQuery-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+- **Other Tools**: ![SQL](https://img.shields.io/badge/Google%20BigQuery-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -61,6 +61,6 @@ Welcome to my GitHub! I’m a **Data Analyst** with expertise in **SQL**, **Tabl
 ---
 
 ## 🌐 Fun Fact
-💡 Did you know I once predicted **customer churn with 95% accuracy** using just SQL and Power BI? Let’s explore more stories together!
+💡 Did you know I once predicted **customer churn with 95% accuracy** using just SQL and Tableau? Let’s explore more stories together!
 
 ---
