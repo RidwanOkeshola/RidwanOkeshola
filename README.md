@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Ridwan Okeshola!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Analyst+%7C+SQL+Expert+%7C+Tableau+Visualizations;Passionate+about+Insights+and+Analytics)](https://github.com/RidwanOkeshola)
 
 Welcome to my GitHub! I’m a **[Data Analyst]** with expertise in **SQL**, **Tableau**, **Power BI**, and **data-driven decision-making**. Passionate about turning data into actionable insights, I’m continually learning and exploring ways to make complex ideas simple and impactful.
