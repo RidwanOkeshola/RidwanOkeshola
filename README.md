@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ridwan Okeshola!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+Analyst+%7C+SQL+Expert+%7C+Tableau+Visualizations;Passionate+about+Insights+and+Analytics)](https://github.com/RidwanOkeshola)
 
-Welcome to my GitHub! I’m a **[Data Analyst]** with expertise in **SQL**, **Tableau**, **Power BI**, and **data-driven decision-making**. Passionate about turning data into actionable insights, I’m continually learning and exploring ways to make complex ideas simple and impactful.
+Welcome to my GitHub! I’m a **Data Analyst** with expertise in **SQL**, **Tableau**, **Power BI**, and **data-driven decision-making**. Passionate about turning data into actionable insights, I’m continually learning and exploring ways to make complex ideas simple and impactful.
 
 ---
 
@@ -29,12 +29,12 @@ Welcome to my GitHub! I’m a **[Data Analyst]** with expertise in **SQL**, **Ta
 - **Skills Demonstrated**: SQL, Tableau, Data Modeling
 - ![Dashboard Screenshot](https://your-image-link.com)
 
-### 2️⃣ [RFM Analysis in BigQuery](https://github.com/RidwanOkeshola/rfm-analysis)
+### 2️⃣ [RFM Analysis in BigQuery](https://ridwanokeshola-portfolio.framer.website/rfm)
 - **Overview**: Conducted customer segmentation using RFM analysis on BigQuery, optimizing marketing strategies and boosting retention.
 - **Skills Demonstrated**: BigQuery SQL, Cohort Analysis
 - ![RFM Analysis Preview](https://your-image-link.com)
 
-### 3️⃣ [Funnel Analysis Dashboard](https://github.com/RidwanOkeshola/funnel-analysis)
+### 3️⃣ [Funnel Analysis Dashboard](https://ridwanokeshola-portfolio.framer.website/funnel-analysis)
 - **Overview**: Built a Google Sheets funnel analysis tracking user conversion across stages using interactive dashboards.
 - **Skills Demonstrated**: Google Sheets, Data Analysis, Visualizations
 
